@@ -1,0 +1,60 @@
+CustomerCity,CustomerState,CustomerStatus,Discount,ExtendedPrice,FullPrice,OrderDate,OrderID,Product,ProductID,Quantity,TotalDiscount,UnitPrice,CustomerName
+Pittsburgh,Pennsylvania,Silver,0.0,168.0,168.0,2011-01-11,10248,Queso Cabrales,11,12,0.0,14.0,Suzan Plock
+Pittsburgh,Pennsylvania,Silver,0.0,98.0,98.0,2011-01-11,10248,Singaporean Hokkien Fried Mee,42,10,0.0,9.8,Suzan Plock
+Pittsburgh,Pennsylvania,Silver,0.0,174.0,174.0,2011-01-11,10248,Mozzarella di Giovanni,72,5,0.0,34.8,Suzan Plock
+Miami,Florida,Platinum,0.0,1696.0,1696.0,2011-01-11,10249,Manjimup Dried Apples,51,40,0.0,42.4,Allan Strate
+Miami,Florida,Platinum,0.0,167.4,167.4,2011-01-11,10249,Tofu,14,9,0.0,18.6,Allan Strate
+Philadelphia,Pennsylvania,Platinum,0.15000000596046448,1261.4,1484.0,2011-01-11,10250,Manjimup Dried Apples,51,35,222.5999999999999,42.4,Elnora Willison
+Philadelphia,Pennsylvania,Platinum,0.0,77.0,77.0,2011-01-11,10250,Jack's New England Clam Chowder,41,10,0.0,7.7,Elnora Willison
+Philadelphia,Pennsylvania,Platinum,0.15000000596046448,214.2,252.0,2011-01-11,10250,Louisiana Fiery Hot Pepper Sauce,65,15,37.80000000000001,16.8,Elnora Willison
+Tacoma,Washington,Platinum,0.0,336.0,336.0,2011-01-11,10251,Louisiana Fiery Hot Pepper Sauce,65,20,0.0,16.8,Daniela Becknell
+Tacoma,Washington,Platinum,0.05000000074505806,95.76,100.80000000000001,2011-01-11,10251,Gustaf's Knäckebröd,22,6,5.040000000000006,16.8,Daniela Becknell
+Tacoma,Washington,Platinum,0.05000000074505806,222.3,234.0,2011-01-11,10251,Ravioli Angelo,57,15,11.699999999999989,15.6,Daniela Becknell
+Philadelphia,Pennsylvania,Platinum,0.05000000074505806,47.5,50.0,2011-01-11,10252,Geitost,33,25,2.5,2.0,Cathrine Delamater
+Philadelphia,Pennsylvania,Platinum,0.05000000074505806,2462.4,2592.0,2011-01-11,10252,Sir Rodney's Marmalade,20,40,129.5999999999999,64.8,Cathrine Delamater
+Philadelphia,Pennsylvania,Platinum,0.0,1088.0,1088.0,2011-01-11,10252,Camembert Pierrot,60,40,0.0,27.2,Cathrine Delamater
+Philadelphia,Pennsylvania,Platinum,0.0,640.0,640.0,2011-01-11,10253,Maxilaku,49,40,0.0,16.0,Leota Vonderheide
+Philadelphia,Pennsylvania,Platinum,0.0,604.8,604.8000000000001,2011-01-11,10253,Chartreuse verte,39,42,0.0,14.4,Leota Vonderheide
+Philadelphia,Pennsylvania,Platinum,0.0,200.0,200.0,2011-01-11,10253,Gorgonzola Telino,31,20,0.0,10.0,Leota Vonderheide
+Pittsburgh,Pennsylvania,Gold,0.15000000596046448,342.72,403.2,2011-01-11,10254,Pâté chinois,55,21,60.47999999999996,19.2,Tyrone Hine
+Pittsburgh,Pennsylvania,Gold,0.0,168.0,168.0,2011-01-11,10254,Longlife Tofu,74,21,0.0,8.0,Tyrone Hine
+Pittsburgh,Pennsylvania,Gold,0.15000000596046448,45.9,54.0,2011-01-11,10254,Guaraná Fantástica,24,15,8.100000000000001,3.6,Tyrone Hine
+Tacoma,Washington,Gold,0.0,380.0,380.0,2011-01-11,10255,Inlagd Sill,36,25,0.0,15.2,Christin Tillinghast
+Tacoma,Washington,Gold,0.0,1320.0,1320.0,2011-01-11,10255,Raclette Courdavault,59,30,0.0,44.0,Christin Tillinghast
+Tacoma,Washington,Gold,0.0,486.5,486.5,2011-01-11,10255,Pavlova,16,35,0.0,13.9,Christin Tillinghast
+Tacoma,Washington,Gold,0.0,304.0,304.0,2011-01-11,10255,Chang,2,20,0.0,15.2,Christin Tillinghast
+Salt Lake City,Utah,Silver,0.15,393.0,393.0,2011-01-11,10256,Perth Pasties,53,15,0.0,26.2,Kisha Grauer
+Salt Lake City,Utah,Silver,0.0,124.8,124.80000000000001,2011-01-11,10256,Original Frankfurter grüne Soße,77,12,0.0,10.4,Kisha Grauer
+Charleston,South Carolina,Silver,0.0,877.5,877.5,2011-01-11,10257,Schoggi Schokolade,27,25,0.0,35.1,Darryl Manuelito
+Charleston,South Carolina,Silver,0.0,86.4,86.4,2011-01-11,10257,Chartreuse verte,39,6,0.0,14.4,Darryl Manuelito
+Charleston,South Carolina,Silver,0.0,156.0,156.0,2011-01-11,10257,Original Frankfurter grüne Soße,77,15,0.0,10.4,Darryl Manuelito
+Kansas City,Kansas,Gold,0.20000000298023224,608.0,760.0,2011-01-11,10258,Chang,2,50,152.0000022649765,15.2,Milagros Fehrenbach
+Kansas City,Kansas,Gold,0.20000000298023224,122.88,153.60000000000002,2011-01-11,10258,Mascarpone Fabioli,32,6,30.720000457763675,25.6,Milagros Fehrenbach
+Kansas City,Kansas,Gold,0.20000000298023224,884.0,1105.0,2011-01-11,10258,Chef Anton's Gumbo Mix,5,65,221.00000329315662,17.0,Milagros Fehrenbach
+Greensboro,North Carolina,Platinum,0.0,80.0,80.0,2011-01-11,10259,Sir Rodney's Scones,21,10,0.0,8.0,Julio Willard
+Greensboro,North Carolina,Platinum,0.0,20.8,20.8,2011-01-11,10259,Gravad lax,37,1,0.0,20.8,Julio Willard
+Colombus,Ohio,Platinum,0.25,189.0,252.0,2011-01-11,10260,Outback Lager,70,21,63.0,12.0,Roslyn Plott
+Colombus,Ohio,Platinum,0.0,780.0,780.0,2011-01-11,10260,Ravioli Angelo,57,50,0.0,15.6,Roslyn Plott
+Colombus,Ohio,Platinum,0.25,443.25,591.0,2011-01-11,10260,Tarte au sucre,62,15,147.75,39.4,Roslyn Plott
+Colombus,Ohio,Platinum,0.25,92.4,123.2,2011-01-11,10260,Jack's New England Clam Chowder,41,16,30.8,7.7,Roslyn Plott
+Detroit,Michigan,Silver,0.0,288.0,288.0,2011-01-11,10261,Steeleye Stout,35,20,0.0,14.4,Eve Haak
+Detroit,Michigan,Silver,0.0,160.0,160.0,2011-01-11,10261,Sir Rodney's Scones,21,20,0.0,8.0,Eve Haak
+Colombus,Ohio,Gold,0.20000000298023224,163.2,204.0,2011-01-11,10262,Chef Anton's Gumbo Mix,5,12,40.80000060796738,17.0,Max Kindle
+Colombus,Ohio,Gold,0.0,360.0,360.0,2011-01-11,10262,Uncle Bob's Organic Dried Pears,7,15,0.0,24.0,Max Kindle
+Colombus,Ohio,Gold,0.0,60.8,60.8,2011-01-11,10262,Gnocchi di nonna Alice,56,2,0.0,30.4,Max Kindle
+Provo,Utah,Gold,0.25,625.5,834.0,2011-01-11,10263,Pavlova,16,60,208.5,13.9,Roxie Prewitt
+Provo,Utah,Gold,0.25,931.5,1242.0,2011-01-11,10263,Nord-Ost Matjeshering,30,60,310.5,20.7,Roxie Prewitt
+Provo,Utah,Gold,0.25,216.0,288.0,2011-01-11,10263,Longlife Tofu,74,36,72.0,8.0,Roxie Prewitt
+Provo,Utah,Gold,0.0,100.8,100.8,2011-01-11,10263,Guaraná Fantástica,24,28,0.0,3.6,Roxie Prewitt
+Philadelphia,Pennsylvania,Gold,0.0,532.0,532.0,2011-01-11,10264,Chang,2,35,0.0,15.2,Erik Vire
+Philadelphia,Pennsylvania,Gold,0.15000000596046448,163.62,192.5,2011-01-11,10264,Jack's New England Clam Chowder,41,25,28.875001147389412,7.7,Erik Vire
+Kansas City,Missouri,Gold,0.0,936.0,936.0,2011-01-11,10265,Alice Mutton,17,30,0.0,31.2,Lonnie Ludy
+Kansas City,Missouri,Gold,0.0,240.0,240.0,2011-01-11,10265,Outback Lager,70,20,0.0,12.0,Lonnie Ludy
+Seattle,Washington,Platinum,0.05000000074505806,346.56,364.79999999999995,2011-01-11,10266,Queso Manchego La Pastora,12,12,18.24000027179718,30.4,Jamie Woodbridge
+Toronto,Ontario,Silver,0.15000000596046448,183.6,216.0,2011-01-11,10267,Lakkalikööri,76,15,32.40000128746033,14.4,Eleanor Aburto
+Toronto,Ontario,Silver,0.0,735.0,735.0,2011-01-11,10267,Boston Crab Meat,40,50,0.0,14.7,Eleanor Aburto
+Toronto,Ontario,Silver,0.15000000596046448,2618.0,3080.0,2011-01-11,10267,Raclette Courdavault,59,70,462.0000183582306,44.0,Eleanor Aburto
+Providence,Rhode Island,Gold,0.0,990.0,990.0,2011-01-11,10268,Thüringer Rostbratwurst,29,10,0.0,99.0,Odessa Smith
+Providence,Rhode Island,Gold,0.0,111.2,111.2,2011-01-11,10268,Mozzarella di Giovanni,72,4,0.0,27.8,Odessa Smith
+Vancover,British Columbia,Platinum,0.05000000074505806,528.2,556.0,2011-01-11,10269,Mozzarella di Giovanni,72,20,27.80000041425228,27.8,Jamie Sabat
+Vancover,British Columbia,Platinum,0.05000000074505806,114.0,120.0,2011-01-11,10269,Geitost,33,60,6.000000089406967,2.0,Jamie Sabat

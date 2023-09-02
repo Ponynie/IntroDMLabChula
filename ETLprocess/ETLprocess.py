@@ -1,7 +1,8 @@
 import pandas as pd
 
-xlsx_path_1 = "ETLDataSource1_64f0452926165.xlsx"
-xlsx_path_2 = "ETLDataSource2_64f0454968972.xlsx"
+
+xlsx_path_1 = "ETLprocess/ETLDataSource1.xlsx" 
+xlsx_path_2 = "ETLprocess/ETLDataSource2.xlsx"
 xls_1 = pd.ExcelFile(xlsx_path_1)
 xls_2 = pd.ExcelFile(xlsx_path_2)
 
@@ -29,12 +30,11 @@ product_order_1.sort_index(axis = 1, inplace = True)
 product_order_2 = pd.merge(repositary["orderSource2"], repositary["productSource2"], on = "OrderID", how = "inner")
 product_order_2["OrderID"] = product_order_2["OrderID"].str.strip("A")
 product_order_2["OrderID"] = product_order_2["OrderID"].astype(int)
-product_order_2["CustomerStatus"].map({1: "Silver", 2: "Gold", 3: "Platinum"})
+product_order_2["CustomerStatus"] = product_order_2["CustomerStatus"].map({1: "Silver", 2: "Gold", 3: "Platinum"})
 product_order_2["TotalDiscount"] = product_order_2["FullPrice"] * product_order_2["Discount"]
+
 product_order = pd.concat([product_order_1, product_order_2])
 product_order["CustomerName"] = product_order["CustomerFirstName"] + " " + product_order["CustomerLastName"]
 product_order.drop("CustomerFirstName", axis = 1, inplace = True)
 product_order.drop("CustomerLastName", axis = 1, inplace = True)
-product_order.sort_index(axis = 1, inplace = True)
-product_order.to_csv("completed.csv")
-
+product_order.to_csv("ETLprocess/ETLprocess.csv", index = False)
