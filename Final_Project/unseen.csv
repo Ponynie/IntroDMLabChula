@@ -1,36 +1,29 @@
 Age in 5-year groups,Type of place of residence,Highest educational level,Wealth index combined,Births in last five years,Age of respondent at 1st birth,Hemoglobin level adjusted for altitude and smoking (g/dl - 1 decimal),Have mosquito bed net for sleeping (from household questionnaire),Smokes cigarettes,Current marital status,Currently residing with husband/partner,When child put to breast,Had fever in last two weeks,Hemoglobin level adjusted for altitude (g/dl - 1 decimal),"Taking iron pills, sprinkles or syrup"
-35-39,Rural,No education,Poorest,1,15,,No,No,Married,Living with her,Immediately,No,,No
-25-29,Rural,Secondary,Richer,2,29,,No,No,Married,Living with her,Days: 1,No,,No
 20-24,Rural,No education,Poorest,2,19,105.0,Yes,No,Married,Living with her,Immediately,No,67.0,No
 40-44,Rural,Primary,Richest,1,34,107.0,No,No,Married,Living with her,Hours: 1,Yes,144.0,Yes
-25-29,Urban,Primary,Richest,3,16,,No,No,Married,Living with her,,No,,Yes
-35-39,Urban,Primary,Richer,1,24,,No,No,Married,Living with her,Hours: 1,No,,No
-20-24,Rural,No education,Poorest,2,18,,Yes,No,Married,Living with her,,Yes,,No
-45-49,Urban,Secondary,Richer,1,24,,Yes,No,Married,Living with her,Immediately,No,,No
-30-34,Rural,No education,Poorer,2,18,,Yes,No,Married,Living with her,,Yes,,No
-20-24,Rural,Primary,Middle,2,16,123.0,Yes,No,Married,Living with her,Immediately,,,
-35-39,Rural,Primary,Poorest,2,16,,Yes,No,Married,Living with her,202.0,Yes,,No
-25-29,Urban,Higher,Richest,1,22,,Yes,No,Married,Living with her,Immediately,Yes,,Yes
-25-29,Rural,Secondary,Poorer,2,21,,Yes,No,Married,Living with her,Immediately,No,,No
-25-29,Urban,No education,Richer,3,19,131.0,Yes,No,Married,Living with her,,No,114.0,No
 15-19,Rural,No education,Poorer,1,16,101.0,No,No,Married,Living with her,Hours: 1,Yes,94.0,No
-20-24,Urban,Primary,Middle,2,19,,Yes,No,Married,Staying elsewhere,,,,
-25-29,Urban,Secondary,Richer,3,21,,Yes,No,Married,Living with her,,No,,No
 20-24,Urban,Secondary,Middle,2,17,116.0,No,No,Married,Living with her,Hours: 1,No,94.0,Yes
-30-34,Urban,No education,Middle,2,16,,Yes,No,Widowed,,102.0,Yes,,No
 35-39,Urban,Secondary,Richer,2,22,137.0,Yes,No,Married,Living with her,Days: 1,No,94.0,No
-30-34,Rural,No education,Poorest,2,16,,No,No,Married,Living with her,107.0,Yes,,No
-30-34,Rural,No education,Poorer,2,16,,Yes,No,Married,Living with her,Immediately,Yes,,No
 35-39,Urban,Primary,Richer,1,20,117.0,Yes,No,Married,Living with her,Hours: 1,Yes,91.0,Yes
-35-39,Rural,No education,Poorer,2,15,,Yes,No,Married,Living with her,102.0,No,,No
-40-44,Urban,Primary,Middle,3,22,113.0,No,No,Married,Living with her,,No,122.0,Yes
 20-24,Rural,No education,Poorest,2,18,89.0,Yes,No,Married,Living with her,Hours: 1,No,83.0,No
-20-24,Rural,Secondary,Middle,2,18,,Yes,No,Never in union,,,No,,No
-30-34,Rural,No education,Middle,2,18,,Yes,No,Widowed,,,No,,No
-35-39,Rural,Higher,Richest,3,21,,No,No,Married,Living with her,,No,,Yes
-30-34,Rural,No education,Poorest,3,17,,Yes,No,Married,Living with her,Hours: 1,,,
-40-44,Rural,No education,Richer,2,17,,Yes,No,Married,Living with her,103.0,No,,No
-25-29,Rural,No education,Poorest,2,21,125.0,Yes,No,Married,Living with her,,No,92.0,No
-35-39,Rural,No education,Poorest,4,18,,No,No,Married,Living with her,Immediately,No,,No
-30-34,Urban,Secondary,Richest,2,19,,No,No,Married,Living with her,,No,,No
-25-29,Urban,Secondary,Middle,2,22,,No,No,Married,Living with her,,Yes,,No
+25-29,Rural,Primary,Poorer,2,13,115.0,No,No,Married,Living with her,Immediately,No,85.0,No
+30-34,Rural,Primary,Poorer,1,18,125.0,Yes,No,Married,Staying elsewhere,105.0,No,123.0,No
+30-34,Rural,No education,Poorest,2,16,121.0,No,No,Married,Living with her,102.0,Yes,117.0,No
+20-24,Urban,No education,Middle,2,17,116.0,No,No,Married,Living with her,Immediately,No,108.0,No
+20-24,Urban,Primary,Poorer,2,15,115.0,Yes,No,Living with partner,Living with her,Immediately,No,98.0,No
+25-29,Urban,Secondary,Richer,2,22,118.0,Yes,No,Living with partner,Living with her,Immediately,No,95.0,Yes
+35-39,Rural,No education,Richer,1,18,127.0,No,No,Married,Living with her,Immediately,No,110.0,No
+30-34,Rural,No education,Poorest,2,19,102.0,Yes,No,Married,Living with her,204.0,No,90.0,No
+30-34,Urban,Secondary,Richest,1,14,73.0,No,No,Married,Living with her,Immediately,Yes,102.0,No
+25-29,Rural,No education,Poorest,2,17,143.0,Yes,No,Married,Living with her,105.0,No,100.0,No
+20-24,Rural,No education,Poorer,1,17,122.0,No,Yes,Living with partner,Living with her,Immediately,Yes,98.0,Yes
+15-19,Urban,Primary,Richer,1,17,103.0,No,No,Married,Living with her,202.0,No,116.0,No
+25-29,Rural,Secondary,Richest,2,22,122.0,No,No,Married,Living with her,Immediately,No,93.0,Yes
+25-29,Rural,Secondary,Richer,2,22,113.0,Yes,No,Married,Living with her,Immediately,No,106.0,No
+25-29,Urban,No education,Richer,1,17,137.0,No,No,Married,Staying elsewhere,104.0,No,110.0,No
+35-39,Rural,No education,Poorer,2,20,98.0,Yes,No,Married,Living with her,Immediately,Yes,71.0,No
+30-34,Urban,Secondary,Richest,2,25,115.0,No,No,Married,Living with her,Immediately,No,83.0,No
+35-39,Urban,Higher,Richest,2,26,125.0,Yes,No,Married,Living with her,Hours: 1,No,98.0,Yes
+35-39,Urban,No education,Richer,1,13,120.0,No,No,Married,Living with her,Hours: 1,No,100.0,No
+20-24,Urban,Higher,Richer,2,14,124.0,No,No,Married,Living with her,111.0,Yes,110.0,No
+20-24,Rural,Secondary,Poorer,2,20,104.0,No,No,Living with partner,Living with her,109.0,Yes,87.0,No
