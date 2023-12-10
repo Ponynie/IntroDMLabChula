@@ -1,4 +1,4 @@
-Age in 5-year groups,Type of place of residence,Highest educational level,Wealth index combined,Births in last five years,Age of respondent at 1st birth,Hemoglobin level adjusted for altitude and smoking (g/dl - 1 decimal),Anemia level,Have mosquito bed net for sleeping (from household questionnaire),Smokes cigarettes,Current marital status,Currently residing with husband/partner,When child put to breast,Had fever in last two weeks,Hemoglobin level adjusted for altitude (g/dl - 1 decimal),Anemia level.1,"Taking iron pills, sprinkles or syrup"
+Age in 5-year groups,Type of place of residence,Highest educational level,Wealth index combined,Births in last five years,Age of respondent at 1st birth,Hemoglobin level adjusted for altitude and smoking (g/dl - 1 decimal),Anemia level,Have mosquito bed net for sleeping (from household questionnaire),Smokes cigarettes,Current marital status,Currently residing with husband/partner,When child put to breast,Had fever in last two weeks,Hemoglobin level adjusted for altitude (g/dl - 1 decimal),Anemia level,"Taking iron pills, sprinkles or syrup"
 40-44,Urban,Higher,Richest,1,22,,,Yes,No,Living with partner,Staying elsewhere,Immediately,No,,,Yes
 35-39,Urban,Higher,Richest,1,28,,,Yes,No,Married,Living with her,Hours: 1,No,,,No
 25-29,Urban,Higher,Richest,1,26,,,No,No,Married,Living with her,Immediately,No,,,No
@@ -813,6 +813,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,No education,Poorest,2,26,124.0,Not anemic,Yes,No,Married,Living with her,Hours: 1,No,107.0,Mild,No
 30-34,Rural,No education,Poorest,2,26,124.0,Not anemic,Yes,No,Married,Living with her,,No,108.0,Mild,No
 30-34,Rural,No education,Middle,2,18,,,Yes,No,Widowed,,Hours: 1,No,,,No
+30-34,Rural,No education,Middle,2,18,,,Yes,No,Widowed,,,No,,,No
 35-39,Rural,No education,Poorer,2,15,,,Yes,No,Living with partner,Living with her,Hours: 1,No,,,Yes
 35-39,Rural,No education,Poorer,2,15,,,Yes,No,Living with partner,Living with her,,No,,,Yes
 20-24,Rural,Primary,Poorest,1,19,121.0,Not anemic,Yes,No,Married,Living with her,102.0,No,119.0,Not anemic,No
@@ -909,6 +910,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Urban,Secondary,Richest,2,22,121.0,Not anemic,No,No,Married,Living with her,Immediately,Yes,104.0,Mild,No
 25-29,Urban,Secondary,Richest,2,22,121.0,Not anemic,No,No,Married,Living with her,,No,117.0,Not anemic,No
 25-29,Urban,Primary,Richest,3,16,,,No,No,Married,Living with her,Immediately,No,,,Yes
+25-29,Urban,Primary,Richest,3,16,,,No,No,Married,Living with her,,No,,,Yes
 25-29,Urban,Primary,Richest,3,16,,,No,No,Married,Living with her,,No,,,Yes
 25-29,Urban,Primary,Richest,2,21,,,Yes,No,Married,Living with her,Immediately,No,,,No
 25-29,Urban,Primary,Richest,2,21,,,Yes,No,Married,Living with her,,No,,,Yes
@@ -2695,6 +2697,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Urban,Primary,Middle,2,22,116.0,Mild,Yes,No,Married,Living with her,,No,95.0,Moderate,Yes
 25-29,Urban,Secondary,Richest,1,26,,,Yes,No,Never in union,,Immediately,No,,,No
 30-34,Urban,Higher,Richest,1,24,,,No,No,Married,Living with her,102.0,No,,,Yes
+35-39,Urban,Secondary,Richer,2,22,137.0,Not anemic,Yes,No,Married,Living with her,Days: 1,No,94.0,Moderate,No
 35-39,Urban,Secondary,Richer,2,22,137.0,Not anemic,Yes,No,Married,Living with her,,No,124.0,Not anemic,No
 35-39,Urban,Primary,Richer,1,22,,,Yes,No,Married,Living with her,103.0,No,,,No
 25-29,Urban,Primary,Middle,2,18,,,Yes,No,Married,Living with her,Immediately,No,,,Yes
@@ -4004,6 +4007,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 20-24,Urban,No education,Richer,1,22,112.0,Mild,Yes,No,Married,Living with her,Hours: 1,No,114.0,Not anemic,No
 25-29,Urban,Secondary,Richer,3,21,,,Yes,No,Married,Living with her,Immediately,No,,,No
 25-29,Urban,Secondary,Richer,3,21,,,Yes,No,Married,Living with her,,No,,,No
+25-29,Urban,Secondary,Richer,3,21,,,Yes,No,Married,Living with her,,No,,,No
 20-24,Urban,No education,Richer,1,21,89.0,Moderate,No,No,Married,Living with her,Immediately,No,111.0,Not anemic,No
 30-34,Urban,Secondary,Richest,2,16,,,No,No,Married,Living with her,202.0,No,,,No
 30-34,Urban,Secondary,Richest,2,16,,,No,No,Married,Living with her,,No,,,No
@@ -4053,6 +4057,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 45-49,Urban,No education,Richer,1,18,,,Yes,No,Married,Living with her,202.0,No,,,No
 20-24,Urban,No education,Richer,2,19,,,No,No,Married,Living with her,Immediately,No,,,No
 20-24,Urban,No education,Richer,2,19,,,No,No,Married,Living with her,,No,,,No
+20-24,Urban,Secondary,Middle,2,17,116.0,Mild,No,No,Married,Living with her,Hours: 1,No,94.0,Moderate,Yes
 20-24,Urban,Secondary,Middle,2,17,116.0,Mild,No,No,Married,Living with her,,No,98.0,Moderate,Yes
 30-34,Urban,Secondary,Richer,2,17,,,Yes,No,Married,Living with her,Immediately,No,,,No
 30-34,Urban,Secondary,Richer,2,17,,,Yes,No,Married,Living with her,,No,,,No
@@ -6074,6 +6079,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Urban,No education,Richer,2,17,122.0,Not anemic,Yes,No,Married,Living with her,,,,,
 25-29,Urban,No education,Richer,3,19,131.0,Not anemic,Yes,No,Married,Living with her,Hours: 1,No,94.0,Moderate,No
 25-29,Urban,No education,Richer,3,19,131.0,Not anemic,Yes,No,Married,Living with her,,No,102.0,Mild,No
+25-29,Urban,No education,Richer,3,19,131.0,Not anemic,Yes,No,Married,Living with her,,No,114.0,Not anemic,No
 30-34,Urban,Secondary,Richest,2,25,,,Yes,No,Married,Living with her,102.0,No,,,No
 30-34,Urban,Secondary,Richest,2,25,,,Yes,No,Married,Living with her,,No,,,No
 30-34,Urban,Primary,Richer,1,33,,,No,No,Married,Living with her,Hours: 1,No,,,No
@@ -6253,6 +6259,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 15-19,Rural,No education,Poorer,1,18,,,Yes,No,Married,Living with her,104.0,Yes,,,No
 25-29,Rural,No education,Middle,2,15,103.0,Moderate,Yes,No,Married,Living with her,Hours: 1,,,,
 25-29,Rural,No education,Middle,2,15,103.0,Moderate,Yes,No,Married,Living with her,,Yes,92.0,Moderate,No
+20-24,Rural,Primary,Middle,2,16,123.0,Not anemic,Yes,No,Married,Living with her,Immediately,,,,
 20-24,Rural,Primary,Middle,2,16,123.0,Not anemic,Yes,No,Married,Living with her,,Yes,99.0,Moderate,No
 40-44,Rural,No education,Poorer,2,16,,,Yes,No,Married,Living with her,Hours: 1,,,,
 40-44,Rural,No education,Poorer,2,16,,,Yes,No,Married,Living with her,,,,,
@@ -6816,6 +6823,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,Primary,Poorer,2,18,131.0,Not anemic,Yes,No,Married,Living with her,,Yes,,,Yes
 25-29,Rural,No education,Poorer,2,21,,,Yes,No,Married,Living with her,102.0,No,,,Yes
 25-29,Rural,No education,Poorer,2,21,,,Yes,No,Married,Living with her,,No,,,Yes
+15-19,Rural,No education,Poorer,1,16,101.0,Moderate,No,No,Married,Living with her,Hours: 1,Yes,94.0,Moderate,No
 20-24,Rural,No education,Poorer,1,18,,,No,No,Married,Living with her,Hours: 1,Yes,,,No
 30-34,Rural,No education,Poorer,1,16,87.0,Moderate,No,No,Married,Living with her,Hours: 1,No,90.0,Moderate,No
 30-34,Rural,No education,Poorer,2,17,117.0,Mild,No,No,Married,Living with her,Hours: 1,No,93.0,Moderate,No
@@ -6882,6 +6890,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 20-24,Urban,Primary,Middle,2,17,123.0,Not anemic,Yes,No,Married,Living with her,102.0,No,119.0,Not anemic,No
 20-24,Urban,Primary,Middle,2,17,123.0,Not anemic,Yes,No,Married,Living with her,,No,118.0,Not anemic,No
 20-24,Urban,Primary,Middle,2,19,,,Yes,No,Married,Staying elsewhere,103.0,Yes,,,No
+20-24,Urban,Primary,Middle,2,19,,,Yes,No,Married,Staying elsewhere,,,,,
 25-29,Urban,Primary,Middle,1,18,136.0,Not anemic,Yes,No,Married,Living with her,Hours: 1,No,112.0,Not anemic,No
 25-29,Urban,Primary,Richer,1,17,,,Yes,No,Married,Living with her,104.0,No,,,No
 45-49,Urban,No education,Middle,2,15,,,Yes,No,Married,Living with her,103.0,No,,,No
@@ -7838,6 +7847,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,No education,Poorest,3,18,93.0,Moderate,Yes,No,Married,Living with her,,No,75.0,Moderate,No
 30-34,Rural,No education,Poorest,1,17,,,Yes,No,Married,Living with her,203.0,Yes,,,No
 15-19,Rural,No education,Poorer,1,16,,,Yes,No,Divorced,,103.0,Yes,,,No
+35-39,Rural,No education,Poorer,2,15,,,Yes,No,Married,Living with her,102.0,No,,,No
 35-39,Rural,No education,Poorer,2,15,,,Yes,No,Married,Living with her,,No,,,No
 40-44,Rural,No education,Poorer,1,17,,,Yes,No,Married,Living with her,Hours: 1,Yes,,,No
 40-44,Rural,No education,Poorer,1,25,104.0,Moderate,Yes,No,Married,Living with her,Hours: 1,No,119.0,Not anemic,No
@@ -8791,6 +8801,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 20-24,Rural,Primary,Poorest,2,13,98.0,Moderate,Yes,No,Married,Living with her,Hours: 1,Yes,85.0,Moderate,No
 20-24,Rural,Primary,Poorest,2,13,98.0,Moderate,Yes,No,Married,Living with her,,No,96.0,Moderate,No
 25-29,Rural,Secondary,Poorest,1,15,,,Yes,No,Married,Living with her,Hours: 1,Yes,,,No
+35-39,Rural,Primary,Poorest,2,16,,,Yes,No,Married,Living with her,202.0,Yes,,,No
 35-39,Rural,Primary,Poorest,2,16,,,Yes,No,Married,Living with her,,Yes,,,No
 30-34,Rural,No education,Poorer,2,24,,,No,No,Married,Living with her,Immediately,,,,
 30-34,Rural,No education,Poorer,2,24,,,No,No,Married,Living with her,,No,,,No
@@ -9669,6 +9680,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Rural,No education,Poorest,3,15,82.0,Moderate,Yes,No,Married,Living with her,Hours: 1,No,,,No
 25-29,Rural,No education,Poorest,3,15,82.0,Moderate,Yes,No,Married,Living with her,,Yes,92.0,Moderate,No
 25-29,Rural,No education,Poorest,3,15,82.0,Moderate,Yes,No,Married,Living with her,,,,,
+20-24,Rural,No education,Poorest,2,18,89.0,Moderate,Yes,No,Married,Living with her,Hours: 1,No,83.0,Moderate,No
 20-24,Rural,No education,Poorest,2,18,89.0,Moderate,Yes,No,Married,Living with her,,No,86.0,Moderate,No
 40-44,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,Hours: 1,No,,,No
 40-44,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,,No,,,No
@@ -10594,6 +10606,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,Secondary,Poorest,2,25,112.0,Mild,Yes,No,Married,Living with her,103.0,No,110.0,Not anemic,No
 30-34,Rural,Secondary,Poorest,2,25,112.0,Mild,Yes,No,Married,Living with her,,No,108.0,Mild,No
 20-24,Rural,Secondary,Middle,2,18,,,Yes,No,Never in union,,Immediately,No,,,No
+20-24,Rural,Secondary,Middle,2,18,,,Yes,No,Never in union,,,No,,,No
 25-29,Rural,Secondary,Middle,1,19,113.0,Mild,Yes,No,Never in union,,Immediately,No,127.0,Not anemic,No
 40-44,Rural,Secondary,Poorer,1,21,,,Yes,No,Married,Living with her,103.0,,,,
 25-29,Rural,Higher,Middle,2,19,,,Yes,No,Never in union,,Immediately,Don't know,,,Don't know
@@ -13050,6 +13063,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 15-19,Rural,No education,Poorest,1,14,,,Yes,No,Married,Living with her,105.0,No,,,No
 25-29,Rural,No education,Poorest,2,15,121.0,Not anemic,No,No,Married,Living with her,Hours: 1,No,103.0,Mild,No
 25-29,Rural,No education,Poorest,2,15,121.0,Not anemic,No,No,Married,Living with her,,No,97.0,Moderate,No
+30-34,Rural,No education,Poorest,2,16,,,No,No,Married,Living with her,107.0,Yes,,,No
 30-34,Rural,No education,Poorest,2,16,,,No,No,Married,Living with her,,Yes,,,No
 20-24,Rural,No education,Poorest,2,17,,,No,No,Married,Living with her,110.0,No,,,No
 20-24,Rural,No education,Poorest,2,17,,,No,No,Married,Living with her,,Yes,,,No
@@ -15788,6 +15802,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 45-49,Rural,Secondary,Richer,1,27,,,Yes,No,Married,Living with her,Immediately,Yes,,,No
 25-29,Rural,Primary,Poorer,2,18,141.0,Not anemic,Yes,No,Married,Living with her,Immediately,No,109.0,Mild,No
 25-29,Rural,Primary,Poorer,2,18,141.0,Not anemic,Yes,No,Married,Living with her,,No,129.0,Not anemic,No
+25-29,Rural,Secondary,Poorer,2,21,,,Yes,No,Married,Living with her,Immediately,No,,,No
 25-29,Rural,Secondary,Poorer,2,21,,,Yes,No,Married,Living with her,,No,,,No
 35-39,Rural,Secondary,Middle,2,20,,,Yes,No,Married,Living with her,103.0,No,,,No
 35-39,Rural,Secondary,Middle,2,20,,,Yes,No,Married,Living with her,,Yes,,,No
@@ -17049,6 +17064,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 20-24,Rural,No education,Poorest,1,18,,,No,No,Married,Living with her,Immediately,,,,
 20-24,Rural,No education,Poorest,2,16,141.0,Not anemic,No,No,Married,Living with her,Days: 1,,,,
 20-24,Rural,No education,Poorest,2,16,141.0,Not anemic,No,No,Married,Living with her,,Yes,95.0,Moderate,No
+30-34,Rural,No education,Poorer,2,16,,,Yes,No,Married,Living with her,Immediately,Yes,,,No
 30-34,Rural,No education,Poorer,2,16,,,Yes,No,Married,Living with her,,No,,,No
 20-24,Rural,No education,Poorer,1,15,,,Yes,No,Married,Living with her,Days: 1,No,,,No
 30-34,Rural,Primary,Poorest,2,16,109.0,Moderate,Yes,No,Married,Living with her,,,,,
@@ -17790,6 +17806,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Rural,No education,Poorest,2,17,,,Yes,No,Married,Living with her,,No,,,No
 20-24,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,Immediately,No,,,No
 20-24,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,,,,,
+20-24,Rural,No education,Poorest,2,19,105.0,Moderate,Yes,No,Married,Living with her,Immediately,No,67.0,Severe,No
 20-24,Rural,No education,Poorest,2,19,105.0,Moderate,Yes,No,Married,Living with her,,No,89.0,Moderate,No
 30-34,Rural,No education,Poorer,1,16,,,Yes,No,Married,Living with her,Immediately,Yes,,,No
 20-24,Rural,No education,Poorer,2,14,,,Yes,No,Married,Living with her,Immediately,No,,,No
@@ -18630,6 +18647,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 15-19,Rural,Primary,Poorer,2,13,,,Yes,No,Married,Living with her,,,,,
 15-19,Rural,Primary,Poorer,2,13,,,Yes,No,Married,Living with her,,,,,
 30-34,Rural,No education,Poorer,2,18,,,Yes,No,Married,Living with her,103.0,Yes,,,No
+30-34,Rural,No education,Poorer,2,18,,,Yes,No,Married,Living with her,,Yes,,,No
 15-19,Rural,Primary,Middle,1,17,,,Yes,No,Married,Living with her,Hours: 1,Yes,,,No
 25-29,Rural,No education,Poorest,1,20,113.0,Mild,Yes,No,Married,Living with her,104.0,No,99.0,Moderate,No
 35-39,Rural,No education,Poorest,1,20,110.0,Mild,Yes,No,Married,Living with her,103.0,Yes,71.0,Moderate,No
@@ -20689,6 +20707,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 20-24,Rural,Primary,Poorer,2,17,,,Yes,No,Married,Living with her,,No,,,Yes
 35-39,Rural,No education,Poorer,1,14,135.0,Not anemic,Yes,No,Married,Living with her,112.0,Yes,75.0,Moderate,No
 15-19,Rural,No education,Poorer,1,16,88.0,Moderate,Yes,No,Married,Living with her,202.0,No,,,No
+30-34,Rural,No education,Poorest,3,17,,,Yes,No,Married,Living with her,Hours: 1,,,,
 30-34,Rural,No education,Poorest,3,17,,,Yes,No,Married,Living with her,,No,,,Yes
 30-34,Rural,No education,Poorest,3,17,,,Yes,No,Married,Living with her,,No,,,Yes
 20-24,Rural,No education,Poorer,1,18,,,Yes,No,Married,Living with her,107.0,No,,,No
@@ -21791,6 +21810,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,Days: 1,Yes,,,No
 30-34,Rural,No education,Poorest,2,16,,,Yes,No,Married,Living with her,,No,,,No
 20-24,Rural,No education,Poorest,2,18,,,Yes,No,Married,Living with her,Days: 1,,,,
+20-24,Rural,No education,Poorest,2,18,,,Yes,No,Married,Living with her,,Yes,,,No
 15-19,Rural,No education,Poorest,1,15,,,Yes,No,Married,Staying elsewhere,Hours: 1,No,,,Don't know
 25-29,Rural,No education,Poorest,2,18,82.0,Moderate,Yes,No,Married,Living with her,Hours: 1,No,80.0,Moderate,No
 25-29,Rural,No education,Poorest,2,18,82.0,Moderate,Yes,No,Married,Living with her,,Yes,89.0,Moderate,No
@@ -21928,6 +21948,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 35-39,Rural,No education,Poorer,2,24,,,Yes,No,Married,Living with her,Hours: 1,No,,,No
 35-39,Rural,No education,Poorer,2,24,,,Yes,No,Married,Living with her,,No,,,No
 15-19,Rural,No education,Middle,1,18,122.0,Not anemic,Yes,No,Married,Living with her,Immediately,No,,,No
+40-44,Rural,No education,Richer,2,17,,,Yes,No,Married,Living with her,103.0,No,,,No
 40-44,Rural,No education,Richer,2,17,,,Yes,No,Married,Living with her,,,,,
 35-39,Rural,No education,Richer,1,24,,,Yes,No,Married,Living with her,103.0,No,,,No
 20-24,Rural,No education,Richer,3,19,,,Yes,No,Married,Living with her,Days: 1,No,,,No
@@ -22551,6 +22572,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Rural,No education,Poorest,2,17,136.0,Not anemic,Yes,No,Married,Living with her,102.0,No,95.0,Moderate,No
 25-29,Rural,No education,Poorest,2,17,136.0,Not anemic,Yes,No,Married,Living with her,,No,84.0,Moderate,No
 25-29,Rural,No education,Poorest,2,21,125.0,Not anemic,Yes,No,Married,Living with her,103.0,No,73.0,Moderate,No
+25-29,Rural,No education,Poorest,2,21,125.0,Not anemic,Yes,No,Married,Living with her,,No,92.0,Moderate,No
 20-24,Rural,No education,Poorest,2,15,,,Yes,No,Married,Living with her,102.0,No,,,No
 20-24,Rural,No education,Poorest,2,15,,,Yes,No,Married,Living with her,,No,,,No
 35-39,Rural,No education,Poorest,1,14,,,No,No,Married,Living with her,Immediately,No,,,No
@@ -23171,6 +23193,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Rural,No education,Poorer,2,15,,,No,No,Married,Living with her,,No,,,No
 25-29,Rural,No education,Poorer,2,15,,,No,No,Married,Living with her,,No,,,No
 20-24,Rural,No education,Poorest,1,19,,,No,No,Married,Living with her,103.0,No,,,No
+35-39,Rural,No education,Poorest,4,18,,,No,No,Married,Living with her,Immediately,No,,,No
 35-39,Rural,No education,Poorest,4,18,,,No,No,Married,Living with her,,,,,
 35-39,Rural,No education,Poorest,4,18,,,No,No,Married,Living with her,,,,,
 35-39,Rural,No education,Poorest,4,18,,,No,No,Married,Living with her,,,,,
@@ -23661,6 +23684,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,Higher,Richest,2,28,121.0,Not anemic,Yes,No,Married,Living with her,Hours: 1,No,104.0,Mild,Yes
 30-34,Rural,Higher,Richest,2,28,121.0,Not anemic,Yes,No,Married,Living with her,,No,114.0,Not anemic,Yes
 25-29,Rural,Higher,Richest,1,27,,,No,No,Married,Living with her,Hours: 1,No,,,Yes
+40-44,Rural,Primary,Richest,1,34,107.0,Mild,No,No,Married,Living with her,Hours: 1,Yes,144.0,Not anemic,Yes
 30-34,Rural,Secondary,Richest,1,22,,,Yes,No,Married,Staying elsewhere,Immediately,No,,,No
 35-39,Rural,Secondary,Richest,1,29,,,Yes,No,Married,Living with her,Hours: 1,No,,,Yes
 40-44,Rural,Secondary,Richest,2,33,,,No,No,Married,Living with her,Immediately,No,,,Yes
@@ -23866,6 +23890,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 35-39,Rural,Higher,Richest,2,28,,,No,No,Married,Living with her,Hours: 1,No,,,Yes
 35-39,Rural,Higher,Richest,2,28,,,No,No,Married,Living with her,,No,,,Yes
 35-39,Rural,Higher,Richest,3,21,,,No,No,Married,Living with her,Hours: 1,No,,,Yes
+35-39,Rural,Higher,Richest,3,21,,,No,No,Married,Living with her,,No,,,Yes
 35-39,Rural,Higher,Richest,3,21,,,No,No,Married,Living with her,,No,,,Yes
 45-49,Rural,Higher,Richest,1,31,98.0,Moderate,No,No,Married,Living with her,Hours: 1,No,103.0,Mild,Yes
 30-34,Rural,Secondary,Richest,1,30,,,Yes,No,Married,Living with her,Immediately,No,,,Yes
@@ -25065,6 +25090,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 45-49,Urban,Primary,Richer,1,21,,,Yes,No,Widowed,,102.0,,,,
 20-24,Urban,Primary,Richer,2,19,,,Yes,No,Married,Living with her,202.0,No,,,No
 20-24,Urban,Primary,Richer,2,19,,,Yes,No,Married,Living with her,,No,,,No
+30-34,Urban,No education,Middle,2,16,,,Yes,No,Widowed,,102.0,Yes,,,No
 30-34,Urban,No education,Middle,2,16,,,Yes,No,Widowed,,,Yes,,,No
 30-34,Urban,Primary,Middle,1,32,,,Yes,No,Never in union,,Immediately,No,,,Yes
 45-49,Urban,No education,Poorer,1,20,111.0,Mild,Yes,No,Widowed,,102.0,No,101.0,Mild,No
@@ -25134,6 +25160,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 35-39,Urban,Secondary,Poorer,2,22,,,Yes,No,Married,Living with her,204.0,Yes,,,Yes
 35-39,Urban,Secondary,Poorer,2,22,,,Yes,No,Married,Living with her,,No,,,Yes
 25-29,Urban,Secondary,Middle,2,22,,,No,No,Married,Living with her,Hours: 1,No,,,No
+25-29,Urban,Secondary,Middle,2,22,,,No,No,Married,Living with her,,Yes,,,No
 25-29,Urban,Secondary,Middle,2,21,110.0,Mild,Yes,No,Married,Living with her,108.0,No,,,No
 25-29,Urban,Secondary,Middle,2,21,110.0,Mild,Yes,No,Married,Living with her,,Yes,95.0,Moderate,No
 35-39,Urban,Higher,Middle,1,27,,,Yes,No,Married,Living with her,102.0,Yes,,,No
@@ -27169,6 +27196,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Urban,Secondary,Richest,2,26,107.0,Moderate,No,No,Married,Living with her,203.0,No,98.0,Moderate,No
 30-34,Urban,Secondary,Richest,2,26,107.0,Moderate,No,No,Married,Living with her,,No,92.0,Moderate,No
 25-29,Urban,Higher,Richest,1,24,,,No,No,Married,Living with her,207.0,No,,,No
+25-29,Urban,Higher,Richest,1,22,,,Yes,No,Married,Living with her,Immediately,Yes,,,Yes
 30-34,Urban,Primary,Richest,1,22,,,Yes,No,Married,Living with her,Immediately,Yes,,,No
 35-39,Urban,Higher,Richest,1,27,104.0,Moderate,No,No,Married,Living with her,Days: 1,No,110.0,Not anemic,No
 30-34,Urban,Secondary,Middle,1,19,76.0,Severe,No,No,Married,Living with her,102.0,No,101.0,Mild,Yes
@@ -30285,6 +30313,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Rural,Higher,Richest,2,22,124.0,Not anemic,Yes,No,Married,Living with her,,No,93.0,Moderate,No
 35-39,Rural,Primary,Poorer,2,24,113.0,Mild,No,No,Married,Staying elsewhere,Days: 1,Yes,108.0,Mild,No
 35-39,Rural,Primary,Poorer,2,24,113.0,Mild,No,No,Married,Staying elsewhere,,Yes,81.0,Moderate,No
+25-29,Rural,Secondary,Richer,2,29,,,No,No,Married,Living with her,Days: 1,No,,,No
 25-29,Rural,Secondary,Richer,2,29,,,No,No,Married,Living with her,,No,,,No
 35-39,Rural,Secondary,Middle,2,25,,,No,No,Married,Living with her,Immediately,Yes,,,No
 35-39,Rural,Secondary,Middle,2,25,,,No,No,Married,Living with her,,Yes,,,No
@@ -30893,6 +30922,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Urban,No education,Richer,1,23,98.0,Moderate,No,No,Married,Living with her,Immediately,No,108.0,Mild,No
 25-29,Urban,Secondary,Richer,1,22,117.0,Not anemic,Yes,No,Married,Living with her,106.0,No,119.0,Not anemic,No
 30-34,Urban,Secondary,Richer,1,25,141.0,Not anemic,Yes,No,Married,Living with her,Immediately,No,123.0,Not anemic,No
+35-39,Urban,Primary,Richer,1,24,,,No,No,Married,Living with her,Hours: 1,No,,,No
 25-29,Urban,Secondary,Richest,1,19,139.0,Not anemic,Yes,No,Married,Living with her,Days: 1,Yes,123.0,Not anemic,Yes
 35-39,Urban,Secondary,Richest,1,31,120.0,Not anemic,Yes,No,Married,Living with her,203.0,No,124.0,Not anemic,No
 25-29,Urban,Secondary,Richest,2,16,115.0,Mild,Yes,No,Married,Living with her,Days: 1,No,81.0,Moderate,No
@@ -30938,6 +30968,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Urban,Primary,Richer,2,21,,,Yes,No,Married,Living with her,Hours: 1,No,,,No
 25-29,Urban,Primary,Richer,2,21,,,Yes,No,Married,Living with her,,,,,
 30-34,Urban,Secondary,Richest,1,24,119.0,Mild,Yes,No,Married,Living with her,Days: 1,Yes,107.0,Mild,No
+30-34,Urban,Secondary,Richest,2,19,,,No,No,Married,Living with her,,No,,,No
 30-34,Urban,Secondary,Richest,2,19,,,No,No,Married,Living with her,,No,,,No
 35-39,Urban,Primary,Richest,1,18,133.0,Not anemic,No,No,Widowed,,205.0,No,124.0,Not anemic,No
 25-29,Urban,Secondary,Richest,1,17,,,Yes,No,Married,Living with her,Immediately,No,,,Yes
@@ -31732,6 +31763,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 25-29,Urban,Higher,Richest,2,26,,,Yes,No,Married,Living with her,Immediately,No,,,No
 25-29,Urban,Higher,Richest,2,26,,,Yes,No,Married,Living with her,,No,,,No
 30-34,Urban,Higher,Richest,1,32,,,Yes,No,Married,Living with her,Immediately,No,,,No
+45-49,Urban,Secondary,Richer,1,24,,,Yes,No,Married,Living with her,Immediately,No,,,No
 40-44,Urban,Higher,Richest,1,34,150.0,Not anemic,Yes,No,Married,Living with her,Immediately,No,113.0,Not anemic,No
 30-34,Urban,Higher,Richest,2,30,116.0,Mild,Yes,No,Married,Living with her,Immediately,No,,,No
 30-34,Urban,Higher,Richest,2,30,116.0,Mild,Yes,No,Married,Living with her,,Yes,123.0,Not anemic,No
@@ -32779,6 +32811,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Urban,No education,Middle,2,23,132.0,Not anemic,Yes,No,Married,Living with her,,No,118.0,Not anemic,No
 25-29,Urban,Secondary,Richer,1,26,,,No,No,Married,Living with her,Immediately,No,,,No
 40-44,Urban,Primary,Middle,3,22,113.0,Mild,No,No,Married,Living with her,Immediately,No,106.0,Mild,No
+40-44,Urban,Primary,Middle,3,22,113.0,Mild,No,No,Married,Living with her,,No,122.0,Not anemic,Yes
 40-44,Urban,Primary,Middle,3,22,113.0,Mild,No,No,Married,Living with her,,No,115.0,Not anemic,Yes
 35-39,Urban,Primary,Middle,1,17,,,Yes,No,Married,Living with her,Hours: 1,No,,,Yes
 20-24,Urban,Secondary,Richer,1,17,,,Yes,No,Married,Living with her,102.0,No,,,Yes
@@ -32965,6 +32998,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 30-34,Urban,Primary,Middle,2,25,116.0,Mild,No,No,Married,Staying elsewhere,,No,106.0,Mild,Yes
 30-34,Urban,Secondary,Richer,1,17,,,No,No,Married,Living with her,102.0,Yes,,,Yes
 35-39,Urban,Secondary,Middle,1,21,108.0,Mild,Yes,No,Married,Living with her,103.0,No,119.0,Not anemic,No
+35-39,Urban,Primary,Richer,1,20,117.0,Mild,Yes,No,Married,Living with her,Hours: 1,Yes,91.0,Moderate,Yes
 30-34,Urban,Primary,Middle,1,12,105.0,Moderate,No,No,Married,Living with her,Immediately,No,99.0,Moderate,Yes
 30-34,Urban,Secondary,Middle,1,24,,,No,No,Married,Living with her,Immediately,No,,,Yes
 25-29,Urban,Primary,Middle,1,21,140.0,Not anemic,No,No,Married,Living with her,Immediately,Yes,106.0,Mild,No
@@ -33707,6 +33741,7 @@ Age in 5-year groups,Type of place of residence,Highest educational level,Wealth
 35-39,Rural,No education,Poorest,1,24,,,Yes,No,Married,Living with her,Immediately,No,,,No
 40-44,Rural,No education,Poorer,2,36,,,Yes,No,Married,Living with her,Immediately,No,,,No
 40-44,Rural,No education,Poorer,2,36,,,Yes,No,Married,Living with her,,Yes,,,No
+35-39,Rural,No education,Poorest,1,15,,,No,No,Married,Living with her,Immediately,No,,,No
 45-49,Rural,No education,Poorest,2,37,134.0,Not anemic,Yes,No,Married,Living with her,Immediately,No,93.0,Moderate,Yes
 45-49,Rural,No education,Poorest,2,37,134.0,Not anemic,Yes,No,Married,Living with her,,No,80.0,Moderate,Yes
 25-29,Rural,No education,Poorest,1,18,,,Yes,No,Married,Living with her,Immediately,No,,,No
